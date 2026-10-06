@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research software or reproducibility package, please cite it using these metadata."
+title: "Leakage-Aware Cross-Domain Common-Data Hybrid Framework for Explainable Sequential Recommendation"
+type: software
+authors:
+  - family-names: "Boadu"
+    given-names: "Daniel Addae"
+version: "1.0.0"
+date-released: "2026-10-06"
+repository-code: "https://github.com/namabossu/leakage-aware-cross-domain-sequential-recommendation"
+abstract: "Reproducibility package for a PhD dissertation evaluating a leakage-aware, cross-domain, common-data hybrid framework for explainable sequential recommendation across EdNet KT4, ASSISTments, RetailRocket and Amazon Electronics."
+keywords:
+  - sequential recommendation
+  - recommender systems
+  - common-data fairness
+  - temporal leakage
+  - XGBRanker
+  - GRU4Rec
+  - SASRec
+  - BERT4Rec
+  - explainable recommendation
+# Add doi after Zenodo archives release v1.0.0.
