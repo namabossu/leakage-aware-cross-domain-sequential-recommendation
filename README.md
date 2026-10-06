@@ -36,9 +36,9 @@ The four executed notebooks in the repository root are the authoritative computa
 ## Citation and DOI
 Use the repository's `CITATION.cff` metadata when citing the software/reproducibility package.
 
-**Zenodo DOI: pending first archival release.**
+**Zenodo DOI:** 10.5281/zenodo.23199215
 
-After Zenodo archives release `v1.0.0`, the issued DOI should be added here and to `CITATION.cff`.
+The archived v1.0.0 release is persistently identified by the Zenodo DOI above.
 
 ## Interpretation boundary
 Primary 1-positive + 99-negative results are conditional on the sampled candidate distribution and are not full-catalogue ranking estimates. Absolute metrics across datasets should not be interpreted as direct measures of relative domain difficulty.
