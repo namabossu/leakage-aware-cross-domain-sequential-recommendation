@@ -8,6 +8,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-10-06"
 repository-code: "https://github.com/namabossu/leakage-aware-cross-domain-sequential-recommendation"
+doi: "10.5281/zenodo.23199215"
 abstract: "Reproducibility package for a PhD dissertation evaluating a leakage-aware, cross-domain, common-data hybrid framework for explainable sequential recommendation across EdNet KT4, ASSISTments, RetailRocket and Amazon Electronics."
 keywords:
   - sequential recommendation
@@ -19,4 +20,4 @@ keywords:
   - SASRec
   - BERT4Rec
   - explainable recommendation
-# Add doi after Zenodo archives release v1.0.0.
+
